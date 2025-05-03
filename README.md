@@ -158,7 +158,7 @@ Each component will be designed for reusability and consistency across the appli
 
 ### 5. Manual Review
 
-Final review and quality check before submission.
+Final review and quality check.
 
 ---
 
